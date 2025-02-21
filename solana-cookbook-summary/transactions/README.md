@@ -1,5 +1,12 @@
 # Transaction Operations
 
+## Official References
+
+- [Transaction Structure](https://docs.solana.com/developing/programming-model/transactions)
+- [Versioned Transactions](https://docs.solana.com/developing/versioned-transactions)
+- [Transaction Fees](https://docs.solana.com/transaction_fees)
+- [Compute Budget](https://docs.solana.com/developing/programming-model/runtime#compute-budget)
+
 Key transaction functionalities:
 
 1. **Transaction Fundamentals**

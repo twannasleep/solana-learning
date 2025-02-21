@@ -1,5 +1,12 @@
 # Wallet Management
 
+## Official References
+
+- [Wallet Adapter](https://github.com/solana-labs/wallet-adapter)
+- [Web3.js Wallet Guide](https://docs.solana.com/developing/clients/javascript-api)
+- [Wallet Standard](https://github.com/wallet-standard/wallet-standard)
+- [Mobile Wallet Adapter](https://github.com/solana-mobile/mobile-wallet-adapter)
+
 Essential wallet operations:
 
 1. **Keypair Operations**

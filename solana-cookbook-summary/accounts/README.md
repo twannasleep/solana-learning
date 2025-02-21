@@ -1,5 +1,12 @@
 # Account Management
 
+## Official References
+
+- [Account Model](https://docs.solana.com/developing/programming-model/accounts)
+- [Rent Economics](https://docs.solana.com/developing/programming-model/accounts#rent)
+- [PDAs](https://docs.solana.com/developing/programming-model/calling-between-programs#program-derived-addresses)
+- [Address Lookup Tables](https://docs.solana.com/developing/lookup-tables)
+
 Core account operations:
 
 1. **Account Fundamentals**

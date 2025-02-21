@@ -1,5 +1,13 @@
 # Program Development
 
+## Official References
+
+- [Program Architecture](https://docs.solana.com/developing/programming-model/overview)
+- [Security Model](https://docs.solana.com/developing/programming-model/security)
+- [Program Examples](https://github.com/solana-labs/solana-program-library)
+- [Anchor Framework](https://www.anchor-lang.com/)
+- [Program Deployment](https://docs.solana.com/cli/deploy-a-program)
+
 Program development guidelines:
 
 1. **Program Architecture**

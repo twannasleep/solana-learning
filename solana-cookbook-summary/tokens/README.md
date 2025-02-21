@@ -1,5 +1,13 @@
 # Token Operations
 
+## Official References
+
+- [Token Program](https://spl.solana.com/token)
+- [Associated Token Account](https://spl.solana.com/associated-token-account)
+- [Token-2022](https://spl.solana.com/token-2022)
+- [Metaplex Token Metadata](https://docs.metaplex.com/programs/token-metadata/)
+- [Token Swap Program](https://spl.solana.com/token-swap)
+
 Comprehensive token management:
 
 1. **SPL Token Standard**

@@ -1,5 +1,12 @@
 # Development Guides
 
+## Official References
+
+- [Local Development](https://docs.solana.com/developing/test-validator)
+- [RPC API Documentation](https://docs.solana.com/api)
+- [Web3.js Documentation](https://solana-labs.github.io/solana-web3.js/)
+- [Network Types](https://docs.solana.com/clusters)
+
 Key development guides for Solana:
 
 1. **Local Validator Setup**
